@@ -1,2 +1,1 @@
-# Tweaks-lave
-Tweaks for lavender (Redmi Note 7)
+tweaks for lavender device, compare? pls add credit for me.
